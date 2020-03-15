@@ -1,2 +1,2 @@
 # new_repo
-test-re[p
+test-repo
